@@ -10,4 +10,4 @@ Il y aura des fichiers de différents types pour divers logiciels  :
  - Des documents d'installation format ASCII (.txt)
  - Des documents format Word (.docx)
  - Des documents format LibreOffice (.odt)
- - Les documents du type "Politique de sauvegarde" etc, format à décider
+ - Les documents du type "Politique de sauvegarde" etc, format à décider.
